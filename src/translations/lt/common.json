@@ -1,0 +1,42 @@
+{
+  "actions": {
+    "addProduct": "Sukurti Produktą",
+    "view": "Peržiūrėti",
+    "edit": "Redaguoti",
+    "delete": "Ištrinti"
+  },
+  "product": {
+    "name": "Pavadinimas",
+    "ean": "EAN",
+    "type": "Tipas",
+    "weight": "Svoris",
+    "color": "Spalva",
+    "quantity": "Kiekis",
+    "price": "Kaina",
+    "active": "Ar Aktyvus"
+  },
+  "productCreatePage": {
+    "title": "Sukurti Produktą"
+  },
+  "productDetailsPage": {
+    "title": "Produkto Aprašymas",
+    "priceHistory": "Kainų Istorija",
+    "quantityHistory": "Kiekio Istorija"
+  },
+  "productEditPage": {
+    "title": "Redaguoti Produktą"
+  },
+  "productListingPage": {
+    "title": "Produktų sąrašas"
+  },
+  "common": {
+    "actions": "Veiksmai",
+    "placeholder": "Įveskikte",
+    "submit": "Saugoti",
+    "yes": "Taip",
+    "no": "Ne"
+  },
+  "layout": {
+    "home": "Namai"
+  }
+}

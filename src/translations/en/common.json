@@ -1,0 +1,42 @@
+{
+  "actions": {
+    "addProduct": "Add Product",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "product": {
+    "name": "Name",
+    "ean": "EAN",
+    "type": "Type",
+    "weight": "Weight",
+    "color": "Color",
+    "quantity": "Quantity",
+    "price": "Price",
+    "active": "Is Active"
+  },
+  "productCreatePage": {
+    "title": "Create Product"
+  },
+  "productDetailsPage": {
+    "title": "Product Details",
+    "priceHistory": "Price History",
+    "quantityHistory": "Quantity History"
+  },
+  "productEditPage": {
+    "title": "Edit Product"
+  },
+  "productListingPage": {
+    "title": "Product Listing"
+  },
+  "common": {
+    "actions": "Actions",
+    "placeholder": "Enter",
+    "submit": "Submit",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "layout": {
+    "home": "Home"
+  }
+}

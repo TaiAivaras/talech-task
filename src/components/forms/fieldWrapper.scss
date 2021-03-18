@@ -1,0 +1,20 @@
+.field-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+  position: relative;
+  align-self: start;
+  width: 100%;
+
+  &__error {
+    color: red;
+    position: absolute;
+    left: 0;
+    top: 100%;
+  }
+
+  &__label {
+    padding-right: 1rem;
+    text-align: left;
+  }
+}
